@@ -1,19 +1,19 @@
-#Taxi-Tool
-##Taxi-Tool_Backend:
+# Taxi-Tool  
+## Taxi-Tool_Backend:
 Comprehensive solution for small cab companies and ride-hailing providers
 
 Taxi-Tool is a specially developed, web-based complete application that helps small cab companies and ride-hailing providers in Germany to organize their operations more efficiently. 
 The application enables easy transmission and control of appointments for both customers and drivers. Working hours can also be easily recorded via a time-booking system.
 
-##Key features:
+## Key features:
 Appointment booking: customers and drivers can easily make new appointments, improving scheduling and ensuring a smooth process.
 
-Technical Specifications:
-Java: OpenJDK 17
-Spring Boot: 3.2.0
-Spring Security: 6.2.0
-Apache Maven: 4.0.2
-Database: Relational (H2, only for demo version)
+## Technical Specifications:
+Java: OpenJDK 17  
+Spring Boot: 3.2.0  
+Spring Security: 6.2.0  
+Apache Maven: 4.0.2  
+Database: Relational (H2, only for demo version)  
 
 
 Product Description - Taxi Controller
